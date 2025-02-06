@@ -47,6 +47,11 @@ In order to install the project you need a Mac with **Xcode 14 or later** instal
 2. Select CGProject3 build target and My Mac as run destination.
 3. Build and Run the project.
 
+## 📸 Screenshots
+
+<img width="1412" alt="Mini Paint Window with canvas" src="https://github.com/user-attachments/assets/789933a8-3a5c-491b-9502-67bac1aea7f4" />
+
+
 ## 📚 Usage
 1. Create a new document by selecting **File > New**.
 2. Place shapes on the canvas using the window toolbar.
